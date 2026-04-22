@@ -1,4 +1,4 @@
-# GTM AI Notebooks
+# GTM AI: Fine-Tuning Phi-2 for MEDDIC-R Qualification Extraction
 
 Practical, hands-on Colab notebooks for sales, GTM, and revenue teams building with AI.
 
@@ -8,9 +8,8 @@ Each notebook is self-contained, runnable on Google Colab with a free T4 GPU, an
 
 ---
 
-## Notebooks
-
-### Article 8: Fine-Tuning Phi-2 for MEDDIC-R Qualification Extraction
+### Article 8: Make Your Intelligence Layer Your MOAT: Fine-Tuning LLMs for GTM with a Full Colab Build
+##Fine-Tuning Phi-2 for MEDDIC-R Qualification Extraction
 **`apex_meddicr_finetune_Phi-2.ipynb`**
 
 Fine-tunes Microsoft's Phi-2 (2.7B parameters) using LoRA to extract structured qualification records from raw sales call transcripts, following a proprietary MEDDIC-R schema that no base model has ever seen.
@@ -65,20 +64,20 @@ Running these notebooks in Colab involves a few common failure points. See the P
 
 ---
 
-## Series Index
+## The Series
 
-| Article | Topic | Notebook |
-|---|---|---|
-| 1 | Picking the Right Problems for AI Agents | — |
-| 2 | What Is an Agentic System, Actually? | — |
-| 3 | Prompt Engineering for Builders | — |
-| 4 | AI Meeting Prep Assistant | — |
-| 5 | RAG for Revenue Teams | — |
-| 6 | Evaluations for Agentic AI | — |
-| 7 | Multi-Agent Systems | — |
-| **8** | **Fine-Tuning and Intentional Knowledge Ingestion** | **`apex_meddicr_finetune_Phi-2.ipynb`** |
-| 9 | MCP: How Agents Connect to the World | Coming soon |
-| 10 | The Real Cost of Running AI Agents in Production | Coming soon |
+This project is part of *Building with Agentic AI*, a 10-article series on building production-grade agentic systems for GTM and sales teams.
+
+- Article 1: How to Pick the Right Problems for AI Agents and Automation
+- Article 2: Building AI Agents in Practice: A Sales Outreach Agent with n8n and Claude
+- Article 3: Bad Prompt, Good Prompt, Great Prompt: The Practical Guide to Prompt Engineering [+ Sales Agent Example]
+- Article 4: The AI Meeting Prep Assistant: From Problem to a Full Product with n8n and v0
+- Article 5: RAG for Revenue Teams: From Simple Retrieval to Agentic and Graph RAG
+- Article 6: Evals for Agentic AI: How to Know If Your System Actually Works + Hands on n8n JSON Files
+- **Article 7: Multi-Agent Systems (this project)**
+- **Article 8: Make Your Intelligence Layer Your MOAT: Fine-Tuning LLMs for GTM with a Full Colab Build**
+- Article 9: MCP: How Agents Connect to the World | Coming soon |
+- Article 10: The Real Cost of Running AI Agents in Production | Coming soon |
 
 ---
 
@@ -95,9 +94,7 @@ Running these notebooks in Colab involves a few common failure points. See the P
 
 **Building with Agentic AI** is a practical, builder-focused series for sales, GTM, and marketing practitioners. Each article combines conceptual frameworks with hands-on implementations — no hand-waving, no hypothetical examples.
 
-Written by Sara — GTM leader, builder, and former lead on custom foundational model development at Adobe.
-
-Follow the series on [Medium](#) and [LinkedIn](#).
+Follow the series on [Medium](https://sarasoleymani.medium.com/) and [LinkedIn](https://www.linkedin.com/in/sarasoleymani/).
 
 ---
 
