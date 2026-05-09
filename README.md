@@ -31,7 +31,7 @@ Fine-tunes Microsoft's Phi-2 (2.7B parameters) using LoRA to extract structured 
 
 **Runtime:** Approximately 20 to 30 minutes on a T4 GPU.
 
-**Article:** [Make Your Intelligence Layer Your MOAT — Medium](#https://medium.com/@sarasoleymani/make-your-intelligence-layer-your-moat-fine-tuning-llms-for-gtm-with-a-full-colab-build-6ed9526694d4)
+**Article:** [Make Your Intelligence Layer Your MOAT](#https://medium.com/@sarasoleymani/make-your-intelligence-layer-your-moat-fine-tuning-llms-for-gtm-with-a-full-colab-build-6ed9526694d4) .
 
 ---
 
